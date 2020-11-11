@@ -1,0 +1,39 @@
+html {
+    text-align: center;
+    background-color:white
+}
+body {
+    background-color:floralwhite;
+    
+  
+    width: 600px;
+    
+    max-width: 90%;
+    
+    margin: 100px auto;
+    
+    border-style: solid;
+    border-color: lightgrey
+
+}
+h1 {
+    font-size: 15pt;
+    
+}
+h2 {
+    font-size: 15pt;
+}
+h3 {
+    font-size: 15pt;
+}
+p {
+  font-size: 13pt;  
+}
+img {
+    border-radius: 1rem;
+    box-shadow: 1px 1px 1px black;
+}
+button {
+    background-color: white;
+    font-size: 8pt;
+}
